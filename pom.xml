@@ -191,7 +191,7 @@
       <artifactId>log4j-api</artifactId>
       <version>${log4j2.version}</version>
     </dependency>
-    <dependency>
+<!--     <dependency>
       <groupId>log4j</groupId>
       <artifactId>log4j</artifactId>
       <version>1.2.17</version>
@@ -214,7 +214,7 @@
         </exclusion>
       </exclusions>
       <optional>true</optional>
-    </dependency>
+    </dependency> -->
     <!-- Metrics providers -->
     <dependency>
       <groupId>com.yammer.metrics</groupId>
